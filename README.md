@@ -1,0 +1,10 @@
+<p align="center">
+<img src="./assets/header.svg" width="100%" align="top" alt="LiquidRing — Python developer: automation and bots, Telegram / MAX bridges, AI video pipelines, game localization and Unity modding.">
+<img src="./assets/stats.svg" width="100%" align="top" alt="Stats: 1 total stars; 80 contributions in 2026, 80 all time; 5 pull requests (5 merged); current streak 0 days, longest 2 days; 0 followers; 0 forks; member since August 2026. Top languages: Python, TypeScript, Shell, C#, C++.">
+<img src="./assets/contribution-city.svg" width="100%" align="top" alt="Contribution city: an isometric night skyline with one building per day of the last year. 80 contributions, busiest day August 13 with 37.">
+<img src="./assets/projects.svg" width="100%" align="top" alt="Projects">
+<a href="https://github.com/LiquidRing/max2tg-forwarder"><img src="./assets/card-max2tg-forwarder.svg" width="50%" align="top" alt="max2tg-forwarder — two-way MAX ⇄ Telegram bridge: messages, attachments, replies and edits. Python."></a><a href="https://github.com/LiquidRing/dread_delusion_translate"><img src="./assets/card-dread_delusion_translate.svg" width="50%" align="top" alt="Dread Delusion RU — full Russian fan translation of Dread Delusion 1.3.3."></a>
+<a href="https://github.com/LiquidRing/unity_tools"><img src="./assets/card-unity_tools.svg" width="50%" align="top" alt="unity_tools — CLI tools for editing Unity .assets files directly, plus a uinput virtual input driver for Wine/Proton games. C#, Python."></a><a href="https://github.com/LiquidRing/crawl4ai-claude-skill"><img src="./assets/card-crawl4ai-claude-skill.svg" width="50%" align="top" alt="crawl4ai-claude-skill — a real JS-capable browser for Claude Code via self-hosted Crawl4AI. Shell."></a>
+<img src="./assets/stack.svg" width="100%" align="top" alt="Tech stack. Languages: Python, TypeScript, C#, C++, Shell. Bots and AI: Telegram Bot API, LangGraph, Whisper, Crawl4AI. Gamedev: Unity, AssetsTools.NET, Wine / Proton. Desktop: Qt. Infra: Docker, Linux, Nuitka.">
+<img src="./assets/footer.svg" width="100%" align="top" alt="Connection closed.">
+</p>
