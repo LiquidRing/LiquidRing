@@ -5,7 +5,7 @@
   "prs_merged": 2,
   "stars": 1,
   "forks": 0,
-  "repos": 22,
+  "repos": 23,
   "repo_stars": {
     "dread_delusion_translate": 1,
     "entropy_translate": 0,
@@ -28,27 +28,28 @@
     "unity_tools": 0,
     "crawl4ai-claude-skill": 0,
     "max2tg-forwarder": 0,
-    "LiquidRing": 0
+    "LiquidRing": 0,
+    "quadmotion": 0
   },
   "languages": {
     "Python": 557647,
+    "JavaScript": 533112,
     "TypeScript": 74632,
     "Shell": 50119,
+    "HTML": 39674,
     "C#": 27392,
     "C++": 25543,
     "Vue": 10680,
     "CMake": 3906,
-    "JavaScript": 2615,
     "CSS": 2137,
-    "HTML": 1551,
     "Dockerfile": 221
   },
   "year": 2026,
-  "commits_year": 57,
-  "commits_all": 96,
-  "contributions_year": 2602,
-  "contributions_all": 3925,
-  "streak_current": 4,
+  "commits_year": 65,
+  "commits_all": 104,
+  "contributions_year": 2649,
+  "contributions_all": 3972,
+  "streak_current": 6,
   "streak_longest": 19,
-  "updated": "2026-11-17"
+  "updated": "2026-11-18"
 }
